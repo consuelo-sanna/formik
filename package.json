@@ -1,5 +1,6 @@
 {
   "name": "formik-project",
+  "version": "2.2.9",
   "private": true,
   "type": "module",
   "resolutions": {
